@@ -1,2 +1,4 @@
 hello world
-olá mundo"
+olá mundo!
+
+Isto é o inicio para todo programador.
